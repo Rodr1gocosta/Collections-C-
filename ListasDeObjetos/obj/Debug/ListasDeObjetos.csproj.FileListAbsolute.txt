@@ -1,0 +1,8 @@
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\bin\Debug\ListasDeObjetos.exe.config
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\bin\Debug\ListasDeObjetos.exe
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\bin\Debug\ListasDeObjetos.pdb
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\obj\Debug\ListasDeObjetos.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\obj\Debug\ListasDeObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\obj\Debug\ListasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\obj\Debug\ListasDeObjetos.exe
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\obj\Debug\ListasDeObjetos.pdb
