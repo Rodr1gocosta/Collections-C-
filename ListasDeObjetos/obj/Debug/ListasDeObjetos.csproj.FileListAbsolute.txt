@@ -6,3 +6,11 @@ C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjeto
 C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\obj\Debug\ListasDeObjetos.csproj.CoreCompileInputs.cache
 C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\obj\Debug\ListasDeObjetos.exe
 C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\ListasDeObjetos\obj\Debug\ListasDeObjetos.pdb
+C:\Users\rodri\OneDrive\Documentos\Alura\Collections-C-\ListasDeObjetos\bin\Debug\ListasDeObjetos.exe.config
+C:\Users\rodri\OneDrive\Documentos\Alura\Collections-C-\ListasDeObjetos\bin\Debug\ListasDeObjetos.exe
+C:\Users\rodri\OneDrive\Documentos\Alura\Collections-C-\ListasDeObjetos\bin\Debug\ListasDeObjetos.pdb
+C:\Users\rodri\OneDrive\Documentos\Alura\Collections-C-\ListasDeObjetos\obj\Debug\ListasDeObjetos.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\Alura\Collections-C-\ListasDeObjetos\obj\Debug\ListasDeObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Documentos\Alura\Collections-C-\ListasDeObjetos\obj\Debug\ListasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Alura\Collections-C-\ListasDeObjetos\obj\Debug\ListasDeObjetos.exe
+C:\Users\rodri\OneDrive\Documentos\Alura\Collections-C-\ListasDeObjetos\obj\Debug\ListasDeObjetos.pdb

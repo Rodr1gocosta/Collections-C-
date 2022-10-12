@@ -22,6 +22,15 @@ namespace ListasDeObjetos
             aulas.Add(aulaRequisitos);
             aulas.Add(aulaBancoDeDados);
 
+            //IMPRIME A LISTA SEM O TOSTRING() E SEPARADO COM VÍRGULAS
+            Console.WriteLine(String.Join(", ", aulas));
+
+            //VERIFICA TEM CONTÉM AULAPROGRAMACAO DENTRO DA LISTA DE AULAS
+            Console.WriteLine(aulas.Contains(aulaProgramacao));
+
+            //COMPARA SE AULAS É IGUAL A AULA DE PROGRAMACAO(NESSE RESULTADO É FALSE, PQ NÃO SAO IGUAIS)
+            Console.WriteLine(aulas.Equals(aulaProgramacao));
+
             //foreach (var aula in aulas)
             //{
             //    Console.WriteLine(aula);
