@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionListas", "Collect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListasDeObjetos", "ListasDeObjetos\ListasDeObjetos.csproj", "{FD5FFDA8-39F6-4775-9FE2-9788A16647A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilhaEFila", "PilhaEFila\PilhaEFila.csproj", "{A79EA1D8-5221-4D90-9149-5302FADE33D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilhaEFila2", "PilhaEFila2\PilhaEFila2.csproj", "{8DEC2E6C-8A58-4A62-AF36-38671D3754B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{FD5FFDA8-39F6-4775-9FE2-9788A16647A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD5FFDA8-39F6-4775-9FE2-9788A16647A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD5FFDA8-39F6-4775-9FE2-9788A16647A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79EA1D8-5221-4D90-9149-5302FADE33D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79EA1D8-5221-4D90-9149-5302FADE33D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79EA1D8-5221-4D90-9149-5302FADE33D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79EA1D8-5221-4D90-9149-5302FADE33D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEC2E6C-8A58-4A62-AF36-38671D3754B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEC2E6C-8A58-4A62-AF36-38671D3754B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEC2E6C-8A58-4A62-AF36-38671D3754B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEC2E6C-8A58-4A62-AF36-38671D3754B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

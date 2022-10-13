@@ -1,0 +1,8 @@
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\PilhaEFila\bin\Debug\PilhaEFila.exe.config
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\PilhaEFila\bin\Debug\PilhaEFila.exe
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\PilhaEFila\bin\Debug\PilhaEFila.pdb
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\PilhaEFila\obj\Debug\PilhaEFila.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\PilhaEFila\obj\Debug\PilhaEFila.csproj.SuggestedBindingRedirects.cache
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\PilhaEFila\obj\Debug\PilhaEFila.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\PilhaEFila\obj\Debug\PilhaEFila.exe
+C:\Users\Basis Tecnologia\Documents\Alura\Collections\Collections\PilhaEFila\obj\Debug\PilhaEFila.pdb
